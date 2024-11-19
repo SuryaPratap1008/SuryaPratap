@@ -7,9 +7,9 @@ function Contact() {
         <iframe
           width="100%"
           height="100%"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
+          // frameBorder="0"
+          // marginHeight="0"
+          // marginwidth="0"
           title="map"
           scrolling="no"
           src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0MuzaffarNagar+(Surya Pratap)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
