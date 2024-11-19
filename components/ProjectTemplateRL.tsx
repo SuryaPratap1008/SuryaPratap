@@ -65,9 +65,9 @@ function ProjectTemplate() {
                 className="w-full h-full iframe-desktop "
               ></iframe> */}
             </div>
-            <div className="w-1/4  bg-[black] h-1/4 z-10 border-y-0 rounded-br-xl rounded-bl-xl "></div>
-            <div className="perspective-cont w-2/4  h-2/4 absolute top-72 z-1 ">
-              <div className="w-full  h-full monitor rounded-3xl border-8 border-[black] bg-gray-900 shadow-stone-400 "></div>
+            <div className="w-1/4  bg-[black] h-1/4 z-10 border-y-0 "></div>
+            <div className="perspective-cont w-3/4  h-1/8 z-1 ">
+              <div className="w-full  h-full monitor rounded-3xl border-8 border-[black] bg-gray-900  "></div>
             </div>
           </div>
         </div>
